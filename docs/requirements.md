@@ -58,11 +58,14 @@ As informações que devem ser armazenadas de um paciente são:
 	 - Escola que frequenta
 	 - Série
 	 - Período
- - **Observações**: campo aberto de texto livre
-
-vamos ver se vai ser modificado na branch certa
+ - **Observações**
+	 - Dados corporais
+		 - Peso
+		 - Altura
+		 - 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMjcwMTAxNywzNTk3NDAwNTldfQ==
+eyJoaXN0b3J5IjpbLTE0ODk4NTUwMiwyMDAyNzAxMDE3LDM1OT
+c0MDA1OV19
 -->
