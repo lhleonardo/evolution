@@ -62,10 +62,14 @@ As informações que devem ser armazenadas de um paciente são:
 	 - Dados corporais
 		 - Peso
 		 - Altura
-		 - 
+	 - Dados médicos
+		 - Alergias
+		 - Medicações
+		 - Cirurgias
+		 - [...]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODk4NTUwMiwyMDAyNzAxMDE3LDM1OT
-c0MDA1OV19
+eyJoaXN0b3J5IjpbLTM4ODA0ODAzLDIwMDI3MDEwMTcsMzU5Nz
+QwMDU5XX0=
 -->
