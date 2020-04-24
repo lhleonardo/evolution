@@ -18,7 +18,8 @@ Código-fonte, aplicação e repositório protegidos pela licença [GNU GPL.v3](
 ## Apoiadores
 Espaço Crescer: Espaço de desenvolvimento Infantil.
 
-## Contribu
+## Contribuições
+Contribuições no código são sempre bem-vindas. Todas as modificações em implementações devem ser feitas a partir de *pull-requests*
 
 ## Autores
 
@@ -26,5 +27,5 @@ Espaço Crescer: Espaço de desenvolvimento Infantil.
 | :---: | :---: |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3ODk1OTk1Ml19
+eyJoaXN0b3J5IjpbMjEyMzI5OTMwOV19
 -->
