@@ -1,3 +1,4 @@
+<img style="margin: 0 auto;" src="kiwi.svg"  alt="Logomarca da Aplicação">
 <h1 align="center">evolution</h1>
 <p align="center">
   Ambiente de acompanhamento e evolução de clínicas de apoio.
@@ -43,6 +44,6 @@ Então, para contribuir, você deverá:
 | :---: | :---: |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjE0NTIyMDUsLTE0NzU1MDg5NDgsMT
-k0Mzg0MzU2OCwxMzg3NjgwMjI2XX0=
+eyJoaXN0b3J5IjpbMTU1MjM0MDkwMiwtMTI2MTQ1MjIwNSwtMT
+Q3NTUwODk0OCwxOTQzODQzNTY4LDEzODc2ODAyMjZdfQ==
 -->
