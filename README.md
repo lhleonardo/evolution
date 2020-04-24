@@ -20,7 +20,7 @@ Espaço Crescer: Espaço de desenvolvimento Infantil.
 
 ## Evolução e workflow
 
-Para ter acc
+Para ter acesso ao crescimento e evolução da aplicação acesse os guias presentes no [quadro](https://github.com/lhleonardo/evolution/projects) do projeto ou pelas [Issues](https://github.com/lhleonardo/evolution/issues) lançadas.
 
 ## Contribuições
 Contribuições no código são sempre bem-vindas. Todas as modificações em implementações devem ser feitas a partir de *pull-requests*. 
@@ -38,5 +38,5 @@ Então, para contribuir, você deverá:
 | :---: | :---: |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjI4MzcxNTldfQ==
+eyJoaXN0b3J5IjpbMTM4NzY4MDIyNl19
 -->
