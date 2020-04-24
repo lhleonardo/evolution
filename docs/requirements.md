@@ -77,13 +77,15 @@ Também é necessário armazenar no cadastro do paciente o termo de consentiment
 ### Funcionários/Profissionais
 No âmbito de trabalho, os profissionais e funcionários serão aqueles que trabalham em prol do estabelecimento, exercendo ou não atendimento especializado aos pacientes. 
 
-A diferença entre os registros se difere em acesso a dados sensíveis obtidos e gerados nas [Consultas](#c) que, por sua vez, só poderão ser acessados por profissionais 
+A diferença entre os registros se difere em acesso a dados sensíveis obtidos e gerados nas [Consultas](#consultas) que, por sua vez, só poderão ser acessados apenas por profissionais. 
+
+Para generalizar, ambos os tipos são categorizados como funcionários. Entretanto, os *profissionais* possuem informações complementares sobre suas áreas de atuação e vinculação para prover determinados 
 
 ### Serviços
 Os serviços são operações de atendimento disponíveis na clínica para atendimento aos pacientes. 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MjEzOTgwMiwtMzg4MDQ4MDMsMjAwMj
+eyJoaXN0b3J5IjpbLTIxMTM4NjU4NSwtMzg4MDQ4MDMsMjAwMj
 cwMTAxNywzNTk3NDAwNTldfQ==
 -->
