@@ -68,10 +68,10 @@ As informações que devem ser armazenadas de um paciente são:
 		 - Cirurgias
 		 - [...]
 
-Como as clínicas de atendimento provem atendimentos a todos os tipos de pacientes, algumas informações se fazem necessárias a partir de sua faixa etária. Para fins de controle e emissão de comprovantes de atendimentos, os pacientes legalmente mai
+Como as clínicas de atendimento provem atendimentos a todos os tipos de pacientes, algumas informações se fazem necessárias a partir de sua faixa etária. Para fins de controle e emissão de comprovantes de atendimentos, os pacientes legalmente maiores de idade precisam obrigatoriamente informar os documentos (CPF e RG), salvo desses os menores de idade resultando assim na obrigatoriedade no preenchimento dos documentos de pelo menos 1 (um) pa
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNjk1MjMwMiwtMzg4MDQ4MDMsMjAwMj
-cwMTAxNywzNTk3NDAwNTldfQ==
+eyJoaXN0b3J5IjpbNDQzMDIwMTQyLC0zODgwNDgwMywyMDAyNz
+AxMDE3LDM1OTc0MDA1OV19
 -->
