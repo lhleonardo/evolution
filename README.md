@@ -6,7 +6,7 @@ evolution
 <p align="center">
   Ambiente de acompanhamento e evolução de clínicas de apoio.
 </p>
-<hr>
+
 Sistema desenvolvido com a Stack Node.JS + React.js.
 
 Código-fonte, aplicação e repositório protegidos pela licença [GNU GPL.v3](https://github.com/lhleonardo/evolution/blob/master/LICENSE).
@@ -47,7 +47,7 @@ Então, para contribuir, você deverá:
 | :---: | :---: |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY3MzgyNTA4LC02NjEwMzQ3NzEsLTEyNj
+eyJoaXN0b3J5IjpbMzYxOTU1ODkyLC02NjEwMzQ3NzEsLTEyNj
 E0NTIyMDUsLTE0NzU1MDg5NDgsMTk0Mzg0MzU2OCwxMzg3Njgw
 MjI2XX0=
 -->
