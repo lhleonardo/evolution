@@ -15,8 +15,9 @@ Código-fonte, aplicação e repositório protegidos pela licença [GNU GPL.v3](
 
 ## Autores
 
- - Leonardo Henrique de Braz [@lhleonardo](https://github.com/lhleonardo)
+ | [<img src="https://avatars3.githubusercontent.com/u/4248081?s=460&v=4" width=115><br><sub>@filipedeschamps</sub>](https://github.com/filipedeschamps) | [<img src="https://avatars3.githubusercontent.com/u/8251208?s=400&v=4" width=115><br><sub>@lucianopf</sub>](https://github.com/lucianopf) |
+| :---: | :---: |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NTM4MjY5XX0=
+eyJoaXN0b3J5IjpbLTU2NTY3MDc1OV19
 -->
