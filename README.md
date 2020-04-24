@@ -18,14 +18,18 @@ Código-fonte, aplicação e repositório protegidos pela licença [GNU GPL.v3](
 ## Apoiadores
 Espaço Crescer: Espaço de desenvolvimento Infantil.
 
+## Evolução e workflow
+
+Para ter acc
+
 ## Contribuições
 Contribuições no código são sempre bem-vindas. Todas as modificações em implementações devem ser feitas a partir de *pull-requests*. 
 
 Então, para contribuir, você deverá:
 -   Criar um  *fork*  do projeto;
 -   Faça a melhoria na área desejada;
--   Abra um Pull Request;
-	- Nota: Assimile a sua PR aos membros do projeto para ter revisões de código e 
+-   Abra um [Pull Request](https://github.com/lhleonardo/evolution/pulls);
+	- **Nota**: Associe sua PR aos membros do projeto para ter revisões de código e mais agilidade na análise.
 -   Aguardar pela aprovação de suas modificações.
 
 ## Autores
@@ -34,5 +38,5 @@ Então, para contribuir, você deverá:
 | :---: | :---: |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTk2MTg3OF19
+eyJoaXN0b3J5IjpbLTEwNjI4MzcxNTldfQ==
 -->
