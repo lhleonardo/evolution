@@ -1,5 +1,12 @@
-<div style="display: flex; align-items: center">
-<img src="https://raw.githubusercontent.com/lhleonardo/evolution/master/docs/evolution-header.svg"  alt="Logomarca da Aplicação">
+<div style="display: flex; justify-content: center;">
+<img style="background-color: black; border-radius: 30px;" src="evolution-header-ok.svg"
+
+width="300"
+
+srcset=""
+
+/>
+
 </div>
 <h1 align="center">evolution</h1>
 <p align="center">
@@ -46,6 +53,7 @@ Então, para contribuir, você deverá:
 | :---: | :---: |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MTAzNDc3MSwtMTI2MTQ1MjIwNSwtMT
-Q3NTUwODk0OCwxOTQzODQzNTY4LDEzODc2ODAyMjZdfQ==
+eyJoaXN0b3J5IjpbMTM2MDg2OTYzNywtNjYxMDM0NzcxLC0xMj
+YxNDUyMjA1LC0xNDc1NTA4OTQ4LDE5NDM4NDM1NjgsMTM4NzY4
+MDIyNl19
 -->
