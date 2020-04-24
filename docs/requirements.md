@@ -72,10 +72,10 @@ Como as clínicas de atendimento provem atendimentos a todos os tipos de pacient
 
 Para fins de controle e emissão de comprovantes de atendimentos, os pacientes legalmente maiores de idade precisam obrigatoriamente informar os documentos (CPF e RG), salvo desses os menores de idade resultando assim na obrigatoriedade no preenchimento dos documentos de pelo menos 1 (um) dos parentescos informados.
 
-Também é necessário armazenar no cadastro do paciente o termo de consentimento, caso seja autorizado pelo mesmo, de utilizar seus dados e/ou registros de mídia digital (vídeos, áudios, fotografias, etc) em
+Também é necessário armazenar no cadastro do paciente o termo de consentimento, caso seja autorizado pelo mesmo, de utilizar seus dados e/ou registros de mídia digital (vídeos, áudios, fotografias, etc) nas redes sociais do estabelecimento cujo objetivo seja divulgação ou supervisão interna no acompanhamento de evolução das consultas. 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODE3MTk2MjcsLTM4ODA0ODAzLDIwMD
-I3MDEwMTcsMzU5NzQwMDU5XX0=
+eyJoaXN0b3J5IjpbLTM4ODAzMDk4OCwtMzg4MDQ4MDMsMjAwMj
+cwMTAxNywzNTk3NDAwNTldfQ==
 -->
