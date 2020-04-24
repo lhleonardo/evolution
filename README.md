@@ -18,11 +18,13 @@ Código-fonte, aplicação e repositório protegidos pela licença [GNU GPL.v3](
 ## Apoiadores
 Espaço Crescer: Espaço de desenvolvimento Infantil.
 
+## Contribu
+
 ## Autores
 
  | [<img src="https://avatars0.githubusercontent.com/u/11544276?v=4&s=450" width=115><br><sub>@lhleonardo</sub>](https://github.com/lhleonardo) <br><sub>Leonardo Braz</sub>| [<img src="https://avatars3.githubusercontent.com/u/59891332?s=400&v=4" width=115><br><sub>@LMaroto</sub>](https://github.com/LMaroto) <br><sub>Lucas Maroto</sub>|
 | :---: | :---: |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY0NzUwMzA0XX0=
+eyJoaXN0b3J5IjpbMTg3ODk1OTk1Ml19
 -->
