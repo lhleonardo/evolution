@@ -1,7 +1,8 @@
-<div style="display: flex; justify-content: center;">
-	<img style="background-color: black; border-radius: 30px;" src="https://raw.githubusercontent.com/lhleonardo/evolution/master/docs/evolution-header.svg" width="100" alt="Logomarca da Aplicação"/>
-</div>
-<h1 align="center">evolution</h1>
+<h1 align="center">
+<img style="background-color: black; border-radius: 30px;" src="https://raw.githubusercontent.com/lhleonardo/evolution/master/docs/evolution-header.svg" width="100" alt="Logomarca da Aplicação"/>
+<br>
+evolution
+</h1>
 <p align="center">
   Ambiente de acompanhamento e evolução de clínicas de apoio.
 </p>
@@ -46,7 +47,7 @@ Então, para contribuir, você deverá:
 | :---: | :---: |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxOTEzODk1NCwtNjYxMDM0NzcxLC0xMj
+eyJoaXN0b3J5IjpbMTUwNTUwODU2MSwtNjYxMDM0NzcxLC0xMj
 YxNDUyMjA1LC0xNDc1NTA4OTQ4LDE5NDM4NDM1NjgsMTM4NzY4
 MDIyNl19
 -->
