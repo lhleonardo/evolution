@@ -75,13 +75,15 @@ Para fins de controle e emissão de comprovantes de atendimentos, os pacientes l
 Também é necessário armazenar no cadastro do paciente o termo de consentimento, caso seja autorizado pelo mesmo, de utilizar seus dados e/ou registros de mídia digital (vídeos, áudios, fotografias, etc) nas redes sociais do estabelecimento cujo objetivo seja divulgação ou supervisão interna no acompanhamento de evolução das consultas. 
 
 ### Funcionários/Profissionais
-No âmbito de trabalho, os profissionais e funcionários serão aqueles que trabalham em prol do estabelecimento e
+No âmbito de trabalho, os profissionais e funcionários serão aqueles que trabalham em prol do estabelecimento, exercendo ou não atendimento especializado aos pacientes. 
+
+A diferença entre os registros se difere em acesso a dados sensíveis obtidos e gerados nas [Consultas](#c) que, por sua vez, só poderão ser acessados por profissionais 
 
 ### Serviços
 Os serviços são operações de atendimento disponíveis na clínica para atendimento aos pacientes. 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MjQ3ODM1LC0zODgwNDgwMywyMDAyNz
-AxMDE3LDM1OTc0MDA1OV19
+eyJoaXN0b3J5IjpbLTU0MjEzOTgwMiwtMzg4MDQ4MDMsMjAwMj
+cwMTAxNywzNTk3NDAwNTldfQ==
 -->
