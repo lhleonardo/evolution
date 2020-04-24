@@ -88,6 +88,8 @@ As informações que devem ser armazenadas de um funcionário são:
 	 - Data de Nascimento
 	 - CPF/RG
 	 - Sexo
+	 - Etnia
+	 - Naturalidade
 	 - Data de Contratação
  - **Recebimento Monetário**
 	 - Salário atual
@@ -100,6 +102,6 @@ Os serviços são operações de atendimento disponíveis na clínica para atend
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAyNjU3NTQ2LC0zODgwNDgwMywyMDAyNz
-AxMDE3LDM1OTc0MDA1OV19
+eyJoaXN0b3J5IjpbLTE5MDY1ODYxNTcsLTM4ODA0ODAzLDIwMD
+I3MDEwMTcsMzU5NzQwMDU5XX0=
 -->
