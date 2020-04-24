@@ -20,7 +20,7 @@ Código-fonte, aplicação e repositório protegidos pela licença [GNU GPL.v3](
 
 Para ter acesso ao crescimento e evolução da aplicação acesse os guias presentes no [quadro](https://github.com/lhleonardo/evolution/projects) do projeto ou pelas [Issues](https://github.com/lhleonardo/evolution/issues) lançadas.
 
-Modelos de interface, incluindo p
+Modelos de interface, incluindo centralização e normalização de interface estão disponíveis no Figma a partir deste link.
 
 ## Contribuições
 Contribuições no código são sempre bem-vindas. Todas as modificações em implementações devem ser feitas a partir de *pull-requests*. 
@@ -43,6 +43,6 @@ Então, para contribuir, você deverá:
 | :---: | :---: |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzU1MDg5NDgsMTk0Mzg0MzU2OCwxMz
-g3NjgwMjI2XX0=
+eyJoaXN0b3J5IjpbLTE3NTk1ODE1NzUsLTE0NzU1MDg5NDgsMT
+k0Mzg0MzU2OCwxMzg3NjgwMjI2XX0=
 -->
