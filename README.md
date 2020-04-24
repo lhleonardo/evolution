@@ -1,4 +1,6 @@
-<img style="margin: 0 auto;" src="kiwi.svg"  alt="Logomarca da Aplicação">
+<div style="display: flex; align-items: center">
+<img style="background-color: #3c3c3;" src="https://raw.githubusercontent.com/lhleonardo/evolution/master/docs/evolution-header.svg"  alt="Logomarca da Aplicação">
+</div>
 <h1 align="center">evolution</h1>
 <p align="center">
   Ambiente de acompanhamento e evolução de clínicas de apoio.
@@ -44,6 +46,6 @@ Então, para contribuir, você deverá:
 | :---: | :---: |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MjM0MDkwMiwtMTI2MTQ1MjIwNSwtMT
-Q3NTUwODk0OCwxOTQzODQzNTY4LDEzODc2ODAyMjZdfQ==
+eyJoaXN0b3J5IjpbMTc2Mzc4NDU2LC0xMjYxNDUyMjA1LC0xND
+c1NTA4OTQ4LDE5NDM4NDM1NjgsMTM4NzY4MDIyNl19
 -->
