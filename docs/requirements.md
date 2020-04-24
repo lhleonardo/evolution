@@ -87,14 +87,18 @@ As informações que devem ser armazenadas de um funcionário são:
 	 - Nome completo
 	 - Data de Nascimento
 	 - CPF/RG
-	 - Data de
-	 - 
+	 - Sexo
+	 - Data de Contratação
+ - **Recebimento Monetário**
+	 - Salário atual
+	 - Carga Horária de Trabalho
+		 - Grade de presença 
 
 ### Serviços
 Os serviços são operações de atendimento disponíveis na clínica para atendimento aos pacientes. 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzU3MjQ4NTMsLTM4ODA0ODAzLDIwMD
-I3MDEwMTcsMzU5NzQwMDU5XX0=
+eyJoaXN0b3J5IjpbLTQ5ODkyODM5MywtMzg4MDQ4MDMsMjAwMj
+cwMTAxNywzNTk3NDAwNTldfQ==
 -->
