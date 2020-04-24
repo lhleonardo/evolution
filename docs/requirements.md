@@ -7,7 +7,7 @@ A ideia é que o desenvolvimento seja de forma incremental com melhorias e adiç
 
 O controle de evolução da plataforma será acompanhado a partir de lançamento de *issues* na plataforma. Elas terão o objetivo de centralizar relatos de bugs, solicitação de funcionalidades, melhorias de processo e centralização de metas entre os colaboradores. 
 
-O controle de versão da aplicação será gerenciado também pela plataforma hospedada. Técnicas de integração e entrega contínua serão vinculadas as Actions presentes no Github. 
+O controle de versão da aplicação será gerenciado também pela plataforma hospedada. Técnicas de integração e entrega contínua serão vinculadas as Actions presentes no GitHub. 
 
 ## Objetivo
 Gerenciar uma clínica de atendimento a pacientes, com serviços diversos. A plataforma deve prover:
@@ -58,9 +58,64 @@ As informações que devem ser armazenadas de um paciente são:
 	 - Escola que frequenta
 	 - Série
 	 - Período
- - **Observações**: campo aberto de texto livre
+ - **Observações**
+	 - Dados corporais
+		 - Peso
+		 - Altura
+	 - Dados médicos
+		 - Alergias
+		 - Medicações
+		 - Cirurgias
+		 - [...]
+
+Como as clínicas de atendimento provem atendimentos a todos os tipos de pacientes, algumas informações se fazem necessárias a partir de sua faixa etária. 
+
+Para fins de controle e emissão de comprovantes de atendimentos, os pacientes legalmente maiores de idade precisam obrigatoriamente informar os documentos (CPF e RG), salvo desses os menores de idade resultando assim na obrigatoriedade no preenchimento dos documentos de pelo menos 1 (um) dos parentescos informados.
+
+Também é necessário armazenar no cadastro do paciente o termo de consentimento, caso seja autorizado pelo mesmo, de utilizar seus dados e/ou registros de mídia digital (vídeos, áudios, fotografias, etc) nas redes sociais do estabelecimento cujo objetivo seja divulgação ou supervisão interna no acompanhamento de evolução das consultas. 
+
+### Funcionários/Profissionais
+No âmbito de trabalho, os profissionais e funcionários serão aqueles que trabalham em prol do estabelecimento, exercendo ou não atendimento especializado aos pacientes. 
+
+A diferença entre os registros se difere em acesso a dados sensíveis obtidos e gerados nas [Consultas](#consultas) que, por sua vez, só poderão ser acessados apenas por profissionais. 
+
+Para generalizar, ambos os tipos são categorizados como funcionários. Entretanto, os *profissionais* possuem informações complementares sobre suas áreas de atuação e vinculação para prover determinados [Serviços.](#servicos)
+
+As informações que devem ser armazenadas de um funcionário são:
+
+ - **Básicas**
+	 - Nome completo
+	 - Data de Nascimento
+	 - CPF/RG
+	 - Sexo
+	 - Etnia
+	 - Naturalidade
+	 - Data de Contratação
+ - **Recebimento Monetário**
+	 - Salário atual
+	 - Data para pagamento
+	 - Carga Horária de Trabalho
+		 - Grade de presença 
+ - **[Cargo](#cargo)**
+	 - Ocupação
+
+### Serviços
+Os serviços são operações de atendimento disponíveis na clínica para atendimento aos pacientes. 
+
+Os serviços podem ser associados a vários [Profissionais](#funcionarios), definindo assim quais são aptos para realizá-lo.
+
+As informações que devem ser armazenadas sobre um serviço são:
+
+ - **Básico**
+	 - Nome do Serviço
+	 - Descrição do Serviço
+	 - Preço por realização
+	 - Máximo de pessoas por atendimento
+ - **Equipe especializada**
+	 - Lista de [profissionais](#funcionarios)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU5NzQwMDU5XX0=
+eyJoaXN0b3J5IjpbODk2ODA4ODY5LDMzMTczMTMzMCwtMzg4MD
+Q4MDMsMjAwMjcwMTAxNywzNTk3NDAwNTldfQ==
 -->
