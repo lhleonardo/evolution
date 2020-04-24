@@ -91,6 +91,7 @@ As informações que devem ser armazenadas de um funcionário são:
 	 - Data de Contratação
  - **Recebimento Monetário**
 	 - Salário atual
+	 - Data para pagamento
 	 - Carga Horária de Trabalho
 		 - Grade de presença 
 
@@ -99,6 +100,6 @@ Os serviços são operações de atendimento disponíveis na clínica para atend
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5ODkyODM5MywtMzg4MDQ4MDMsMjAwMj
-cwMTAxNywzNTk3NDAwNTldfQ==
+eyJoaXN0b3J5IjpbNzAyNjU3NTQ2LC0zODgwNDgwMywyMDAyNz
+AxMDE3LDM1OTc0MDA1OV19
 -->
