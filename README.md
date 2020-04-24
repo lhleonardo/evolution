@@ -19,7 +19,14 @@ Código-fonte, aplicação e repositório protegidos pela licença [GNU GPL.v3](
 Espaço Crescer: Espaço de desenvolvimento Infantil.
 
 ## Contribuições
-Contribuições no código são sempre bem-vindas. Todas as modificações em implementações devem ser feitas a partir de *pull-requests*
+Contribuições no código são sempre bem-vindas. Todas as modificações em implementações devem ser feitas a partir de *pull-requests*. 
+
+Então, para contribuir, você deverá:
+-   Criar um  *fork*  do projeto;
+-   Faça a melhoria na área desejada;
+-   Abra um Pull Request;
+	- Nota: Assimile a sua PR aos membros do projeto para ter revisões de código e 
+-   Aguardar pela aprovação de suas modificações.
 
 ## Autores
 
@@ -27,5 +34,5 @@ Contribuições no código são sempre bem-vindas. Todas as modificações em im
 | :---: | :---: |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMzI5OTMwOV19
+eyJoaXN0b3J5IjpbLTIxMTk2MTg3OF19
 -->
