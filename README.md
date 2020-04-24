@@ -16,10 +16,8 @@ Código-fonte, aplicação e repositório protegidos pela licença [GNU GPL.v3](
  Guias de configuração para os ambientes de desenvolvimento encontram-se presentes dentro de cada sub-diretório. 
 
 ## Apoiadores
-Crescer: Espaço de desenvolvimento Infantil.
 
-[https://www.facebook.com/CrescerDesenvolvimentoInfantil/](https://www.facebook.com/CrescerDesenvolvimentoInfantil/)
-| [<img src="https://avatars0.githubusercontent.com/u/11544276?v=4&s=450" width=115><br><sub>@lhleonardo</sub>](https://github.com/lhleonardo) <br><sub>Leonardo Braz</sub>| 
+| [<img src="https://scontent.fvag6-1.fna.fbcdn.net/v/t1.0-9/72388948_2137207926572730_1013575061669412864_n.jpg?_nc_cat=110&_nc_sid=85a577&_nc_ohc=l_GBmfGp6UgAX8fX1xb&_nc_ht=scontent.fvag6-1.fna&oh=1b06a2b0d3f4ca04a61e121b7ae0dc8c&oe=5EC908D0" width=115><br><sub>Espaço Crescer</sub>](https://www.facebook.com/CrescerDesenvolvimentoInfantil) <br>| 
 | :---: |
 ## Evolução e workflow
 
@@ -41,5 +39,5 @@ Então, para contribuir, você deverá:
 | :---: | :---: |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMjU5MTA4MCwxMzg3NjgwMjI2XX0=
+eyJoaXN0b3J5IjpbMTk0Mzg0MzU2OCwxMzg3NjgwMjI2XX0=
 -->
