@@ -2,7 +2,7 @@
 <p align="center">
   Ambiente de acompanhamento e evolução de clínicas de apoio.
 </p>
-
+<hr>
 Sistema desenvolvido com a Stack Node.JS + React.js.
 
 Código-fonte, aplicação e repositório protegidos pela licença [GNU GPL.v3](https://github.com/lhleonardo/evolution/blob/master/LICENSE).
@@ -24,5 +24,5 @@ Espaço Crescer: Espaço de desenvolvimento Infantil.
 | :---: | :---: |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTgwOTQ0MjRdfQ==
+eyJoaXN0b3J5IjpbNzY0NzUwMzA0XX0=
 -->
