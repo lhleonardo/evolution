@@ -102,8 +102,10 @@ As informações que devem ser armazenadas de um funcionário são:
 ### Serviços
 Os serviços são operações de atendimento disponíveis na clínica para atendimento aos pacientes. 
 
+Os serviços podem ser associados a vários [Profissionais](#funcionarios)
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODk2Nzg0MiwtMzg4MDQ4MDMsMjAwMj
+eyJoaXN0b3J5IjpbLTEyMDY0MTc0MCwtMzg4MDQ4MDMsMjAwMj
 cwMTAxNywzNTk3NDAwNTldfQ==
 -->
