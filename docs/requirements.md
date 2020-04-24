@@ -7,7 +7,7 @@ A ideia é que o desenvolvimento seja de forma incremental com melhorias e adiç
 
 O controle de evolução da plataforma será acompanhado a partir de lançamento de *issues* na plataforma. Elas terão o objetivo de centralizar relatos de bugs, solicitação de funcionalidades, melhorias de processo e centralização de metas entre os colaboradores. 
 
-O controle de versão da aplicação será gerenciado também pela plataforma hospedada. Técnicas de integração e entrega contínua serão vinculadas as Actions presentes no Github. 
+O controle de versão da aplicação será gerenciado também pela plataforma hospedada. Técnicas de integração e entrega contínua serão vinculadas as Actions presentes no GitHub. 
 
 ## Objetivo
 Gerenciar uma clínica de atendimento a pacientes, com serviços diversos. A plataforma deve prover:
@@ -106,8 +106,16 @@ Os serviços podem ser associados a vários [Profissionais](#funcionarios), defi
 
 As informações que devem ser armazenadas sobre um serviço são:
 
+ - **Básico**
+	 - Nome do Serviço
+	 - Descrição do Serviço
+	 - Preço por realização
+	 - Máximo de pessoas por atendimento
+ - **Equipe especializada**
+	 - Lista de [profissionais](#funcionarios)
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMxNzMxMzMwLC0zODgwNDgwMywyMDAyNz
-AxMDE3LDM1OTc0MDA1OV19
+eyJoaXN0b3J5IjpbODk2ODA4ODY5LDMzMTczMTMzMCwtMzg4MD
+Q4MDMsMjAwMjcwMTAxNywzNTk3NDAwNTldfQ==
 -->
