@@ -96,12 +96,14 @@ As informações que devem ser armazenadas de um funcionário são:
 	 - Data para pagamento
 	 - Carga Horária de Trabalho
 		 - Grade de presença 
+ - **[Cargo](#cargo)**
+	 - Ocupação
 
 ### Serviços
 Os serviços são operações de atendimento disponíveis na clínica para atendimento aos pacientes. 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDY1ODYxNTcsLTM4ODA0ODAzLDIwMD
-I3MDEwMTcsMzU5NzQwMDU5XX0=
+eyJoaXN0b3J5IjpbLTE5ODk2Nzg0MiwtMzg4MDQ4MDMsMjAwMj
+cwMTAxNywzNTk3NDAwNTldfQ==
 -->
