@@ -9,8 +9,14 @@ Código-fonte, aplicação e repositório protegidos pela licença [GNU GPL.v3](
 
  - back-end: presente na pasta `/api`
  - front-end: presente na pasta `/web`
- - do
+ - documentação: presente na pasta `/docs`
+ 
+ Guias de configuração para os ambientes de desenvolvimento encontram-se presentes dentro de cada sub-diretório. 
+
+## Autores
+
+ - Leonardo Henrique de Braz [@lhleonardo](https://github.com/lhleonardo)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1OTU2MzM1NF19
+eyJoaXN0b3J5IjpbLTQ1NTM4MjY5XX0=
 -->
