@@ -74,8 +74,11 @@ Para fins de controle e emissão de comprovantes de atendimentos, os pacientes l
 
 Também é necessário armazenar no cadastro do paciente o termo de consentimento, caso seja autorizado pelo mesmo, de utilizar seus dados e/ou registros de mídia digital (vídeos, áudios, fotografias, etc) nas redes sociais do estabelecimento cujo objetivo seja divulgação ou supervisão interna no acompanhamento de evolução das consultas. 
 
+### Serviços
+Os serviços são classificados como 
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4ODAzMDk4OCwtMzg4MDQ4MDMsMjAwMj
+eyJoaXN0b3J5IjpbMTgzMTY2OTE4OCwtMzg4MDQ4MDMsMjAwMj
 cwMTAxNywzNTk3NDAwNTldfQ==
 -->
