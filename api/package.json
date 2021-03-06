@@ -1,0 +1,12 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "API do Evolution, obedecendo os padrões REST",
+  "main": "index.js",
+  "repository": "https://github.com/lhleonardo/evolution",
+  "author": "Leonardo Braz",
+  "license": "MIT",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.0.0"
+  }
+}
