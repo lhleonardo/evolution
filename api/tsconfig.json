@@ -1,17 +1,29 @@
 {
   "compilerOptions": {
-    // "incremental": true,                         
     "target": "es2019",
     "module": "commonjs",
-    // "lib": [],                                   
     "allowJs": true,
+    "outDir": "./dist",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "experimentalDecorators": true,
+    "rootDir": "./src",
+    "baseUrl": "./src",
+    "paths": {
+      "@modules/*": [
+        "modules/*"
+      ]
+    },
+    // "incremental": true,                         
+    // "lib": [],                                   
     // "checkJs": true,                             
     // "jsx": "preserve",                           
     // "declaration": true,                         
     // "declarationMap": true,                      
     // "sourceMap": true,                           
     // "outFile": "./",                             
-    "outDir": "./dist",
     // "rootDir": "./",                             
     // "composite": true,                           
     // "tsBuildInfoFile": "./",                     
@@ -20,7 +32,6 @@
     // "importHelpers": true,                       
     // "downlevelIteration": true,                  
     // "isolatedModules": true,                     
-    "strict": true,
     // "noImplicitAny": true,                       
     // "strictNullChecks": true,                    
     // "strictFunctionTypes": true,                 
@@ -36,12 +47,10 @@
     // "noPropertyAccessFromIndexSignature": true,  
     // "moduleResolution": "node",                  
     // "baseUrl": "./",                             
-    // "paths": {},                                 
     // "rootDirs": [],                              
     // "typeRoots": [],                             
     // "types": [],                                 
     // "allowSyntheticDefaultImports": true,        
-    "esModuleInterop": true,
     // "preserveSymlinks": true,                    
     // "allowUmdGlobalAccess": true,                
     // "sourceRoot": "",                            
@@ -50,7 +59,5 @@
     // "inlineSources": true,                       
     // "experimentalDecorators": true,              
     // "emitDecoratorMetadata": true,               
-    "skipLibCheck": true,
-    "forceConsistentCasingInFileNames": true
   }
 }
