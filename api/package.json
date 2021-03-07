@@ -7,7 +7,7 @@
   "author": "Leonardo Braz",
   "license": "MIT",
   "scripts": {
-    "dev": "ts-node-dev -r tsconfig-paths/register --inspect --transpile-only src/index.ts",
+    "dev": "ts-node-dev -r tsconfig-paths/register --inspect --transpile-only src/app.ts",
     "test": "jest"
   },
   "devDependencies": {
