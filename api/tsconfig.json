@@ -7,14 +7,8 @@
     "strict": true,
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
+    "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
-    "rootDir": ".",
-    "baseUrl": "./src",
-    "paths": {
-      "@modules/*": [
-        "modules/*"
-      ]
-    },
     "resolveJsonModule": true
   }
 }
