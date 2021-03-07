@@ -1,3 +1,3 @@
-import { celebrate } from "celebrate";
+import { celebrate } from 'celebrate';
 
 export const createPatientValidator = celebrate({});

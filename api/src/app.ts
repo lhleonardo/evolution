@@ -1,5 +1,5 @@
-import { Server } from "./server"
+import { Server } from "./server";
 
-const application = new Server().application
+const { application } = new Server();
 
-application.listen(3000, () => console.log("Servidor iniciado"))
+application.listen(3000, () => console.log("Servidor iniciado"));

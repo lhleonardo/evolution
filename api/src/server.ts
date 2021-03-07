@@ -1,4 +1,5 @@
-import express, { Express } from "express"
+import "reflect-metadata";
+import express, { Express } from "express";
 import { routes } from "./routes";
 
 export class Server {
