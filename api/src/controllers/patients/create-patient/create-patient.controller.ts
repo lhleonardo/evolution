@@ -1,11 +1,12 @@
-import { HttpController } from "utils/http/httpController";
-import { HttpRequest, HttpResponse } from "utils/http/httpProtocols";
+import { HttpController } from "utils/http/http-controller";
+import { ok } from "utils/http/http-helper";
+import { HttpRequest, HttpResponse } from "utils/http/http-protocols";
 import { CreatePatientDTO } from "./create-patient.dto";
 
-export class CreatePatientController implements HttpController<CreatePatientDTO, any> {
+export class CreatePatientController implements HttpController<CreatePatientDTO, string> {
 
-  public async handle(request: HttpRequest<CreatePatientDTO>): Promise<HttpResponse<any>> {
-    throw new Error("Method not implemented.");
+  public async handle(request: HttpRequest<CreatePatientDTO>): Promise<HttpResponse<string>> {
+    return ok("Hello Patient");
   }
 
 }

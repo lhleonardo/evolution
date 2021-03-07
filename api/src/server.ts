@@ -1,5 +1,5 @@
 import express, { Express } from "express"
-import { routes } from "routes";
+import { routes } from "./routes";
 
 export class Server {
   private readonly app: Express;
@@ -15,6 +15,7 @@ export class Server {
   }
 
   private routes() {
+    console.log("Registrando rotas");
     this.app.use(routes);
   }
 
