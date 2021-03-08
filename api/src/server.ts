@@ -1,6 +1,7 @@
-import "reflect-metadata";
-import express, { Express } from "express";
-import { routes } from "./routes";
+import 'reflect-metadata';
+import express, { Express } from 'express';
+import { errors } from 'celebrate';
+import { routes } from './routes';
 
 export class Server {
   private readonly app: Express;
@@ -9,6 +10,7 @@ export class Server {
     this.app = express();
     this.middlewares();
     this.routes();
+    this.registerAfterConfigure();
   }
 
   private middlewares() {
@@ -16,8 +18,11 @@ export class Server {
   }
 
   private routes() {
-    console.log("Registrando rotas");
     this.app.use(routes);
+  }
+
+  private registerAfterConfigure() {
+    this.app.use(errors());
   }
 
   get application(): Express {
