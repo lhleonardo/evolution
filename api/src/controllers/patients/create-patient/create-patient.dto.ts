@@ -6,7 +6,6 @@ export interface PatientAddressDTO {
   city: string;
   uf: string;
 }
-
 export interface PatientContactDTO {
   phone: string;
   mail: string;
