@@ -4,3 +4,5 @@ dist/
 
 ormconfig.json
 .env
+
+.docker/db_data

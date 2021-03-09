@@ -1,0 +1,26 @@
+version: "3"
+
+services:
+  # PostgreSQL
+  database:
+    container_name: evolution_database
+    image: postgres:13.1-alpine
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=docker
+      - POSTGRES_DB=evolution
+    ports:
+      - 5432:5432
+    volumes:
+      - ./.docker/database_data/:/var/lib/postgresql/data
+
+  pgadmin:
+    image: dpage/pgadmin4
+    tty: true
+    environment:
+      - PGADMIN_DEFAULT_EMAIL=admin@user.com
+      - PGADMIN_DEFAULT_PASSWORD=123456
+    ports:
+      - "8080:80"
+    depends_on:
+      - database
