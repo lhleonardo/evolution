@@ -2,8 +2,8 @@ import { Request, Response } from 'express';
 import { HttpController } from './http-controller';
 import { HttpRequest } from './http-protocols';
 
-export const convertToExpressRoute = (controller: HttpController<any, any>) => {
-  return async (req: Request, res: Response) => {
+export function convertToExpressRoute(controller: HttpController<any, any>) {
+  return async (req: Request, res: Response): Promise<Response> => {
     const httpRequest: HttpRequest<any> = {
       body: req.body,
     };
@@ -11,4 +11,4 @@ export const convertToExpressRoute = (controller: HttpController<any, any>) => {
 
     return res.status(httpResponse.statusCode).json(httpResponse.body);
   };
-};
+}
