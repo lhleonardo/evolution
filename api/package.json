@@ -8,10 +8,11 @@
   "license": "MIT",
   "scripts": {
     "dev": "ts-node-dev -r tsconfig-paths/register --inspect --transpile-only src/app.ts",
-    "test": "jest",
     "lint": "eslint --fix --ext .js,.ts,.json .",
     "typeorm": "node --require ts-node/register ./node_modules/typeorm/cli.js",
-    "typeorm:migrate": "yarn typeorm migration:run"
+    "typeorm:migrate": "yarn typeorm migration:run -f ./.env",
+    "test": "jest",
+    "pretest": "yarn typeorm migration:run -f ./test.env"
   },
   "devDependencies": {
     "@types/express": "^4.17.11",
