@@ -3,10 +3,12 @@ import { makeCreatePatientController } from '@/helpers/factories/controllers/pat
 import { convertToExpressRoute } from '@/utils/http/http-express-adapter';
 import { Router } from 'express';
 
-const createPatientController = makeCreatePatientController;
+export function registerPatientsRouter(): Router {
+  const createPatientController = makeCreatePatientController();
 
-const patientsRouter = Router();
+  const patientsRouter = Router();
 
-patientsRouter.post('/', createPatientValidator, convertToExpressRoute(createPatientController);
+  patientsRouter.post('/', createPatientValidator, convertToExpressRoute(createPatientController));
 
-export { patientsRouter };
+  return patientsRouter;
+}

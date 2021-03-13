@@ -1,7 +1,7 @@
 import 'reflect-metadata';
 import express, { Express } from 'express';
 import { errors } from 'celebrate';
-import { routes } from './routes';
+import { registerRoutes } from './routes';
 
 export class Server {
   private readonly app: Express;
@@ -18,7 +18,7 @@ export class Server {
   }
 
   private routes() {
-    this.app.use(routes);
+    this.app.use(registerRoutes());
   }
 
   private registerAfterConfigure() {

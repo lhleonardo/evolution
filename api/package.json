@@ -10,7 +10,8 @@
     "dev": "ts-node-dev -r tsconfig-paths/register --inspect --transpile-only src/app.ts",
     "test": "jest",
     "lint": "eslint --fix --ext .js,.ts,.json .",
-    "typeorm": "node --require ts-node/register ./node_modules/typeorm/cli.js"
+    "typeorm": "node --require ts-node/register ./node_modules/typeorm/cli.js",
+    "typeorm:migrate": "yarn typeorm migration:run"
   },
   "devDependencies": {
     "@types/express": "^4.17.11",
@@ -31,6 +32,7 @@
   },
   "dependencies": {
     "celebrate": "^13.0.4",
+    "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "pg": "^8.5.1",
     "reflect-metadata": "^0.1.13",

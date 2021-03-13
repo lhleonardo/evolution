@@ -1,5 +1,9 @@
-import { Server } from "./server";
+import 'dotenv/config';
+import { initializeDatabase } from '@/database';
+import { Server } from './server';
 
-const { application } = new Server();
+initializeDatabase().then(() => {
+  const { application } = new Server();
 
-application.listen(3000, () => console.log("Servidor iniciado"));
+  application.listen(3000, () => console.log('Server started '));
+});

@@ -1,3 +1,5 @@
-import { createConnection } from 'typeorm';
+import { Connection, createConnection } from 'typeorm';
 
-createConnection();
+export function initializeDatabase(): Promise<Connection> {
+  return createConnection();
+}
