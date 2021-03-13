@@ -25,9 +25,9 @@ export class Patient {
   @Column({ name: 'blood_type' })
   bloodType: string;
 
-  @Column(() => Address)
+  @Column(() => Address, { prefix: false })
   address: Address;
 
-  @Column(() => Contact)
+  @Column(() => Contact, { prefix: false })
   contact: Contact;
 }

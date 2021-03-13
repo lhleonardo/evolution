@@ -12,6 +12,6 @@ module.exports = {
   moduleNameMapper: pathsToModuleNameMapper(compilerOptions.paths, {
     prefix: '<rootDir>/',
   }),
-  setupFiles: ['<rootDir>/src/tests/dotenv-config.js'],
+  setupFiles: ['<rootDir>/setupTest.js'],
   
 };

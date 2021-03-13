@@ -10,7 +10,7 @@ export interface CreatePatientProps {
   ethnicity: string;
   bloodType: string;
   address: {
-    address: string;
+    location: string;
     cep: string;
     number: string;
     description: string;

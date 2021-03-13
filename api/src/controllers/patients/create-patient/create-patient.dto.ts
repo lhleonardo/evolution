@@ -1,5 +1,5 @@
 export interface PatientAddressDTO {
-  address: string;
+  location: string;
   cep: string;
   number: string;
   description: string;

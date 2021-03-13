@@ -30,7 +30,7 @@ describe('Patient routes', () => {
       ethnicity: 'pardo',
       countryOfBirth: 'Brasil',
       address: {
-        address: 'Rua Cristiano de Souza',
+        location: 'Rua Cristiano de Souza',
         number: '14',
         cep: '37200466',
         city: 'Lavras',

@@ -11,7 +11,7 @@ export const createPatientValidator = celebrate({
     ethnicity: Joi.string(),
     countryOfBirth: Joi.string(),
     address: Joi.object<PatientAddressDTO>({
-      address: Joi.string().required(),
+      location: Joi.string().required(),
       number: Joi.string().required(),
       cep: Joi.string().required(),
       city: Joi.string().required(),

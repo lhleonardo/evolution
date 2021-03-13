@@ -17,3 +17,10 @@ export function ok<T>(data?: T): HttpResponse<T> {
     body: data,
   };
 }
+
+export function created<T>(data?: T): HttpResponse<T> {
+  return {
+    statusCode: 201,
+    body: data,
+  };
+}
