@@ -4,5 +4,6 @@ dist/
 
 ormconfig.json
 .env
+!.env.test
 
 .docker/db_data
