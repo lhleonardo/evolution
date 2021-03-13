@@ -1,8 +1,9 @@
 import 'dotenv/config';
-import { connection } from '@/database';
+import { ConnectionManager } from '@/database';
 import { Server } from './server';
 
 async function bootstrap(): Promise<void> {
+  const connection = new ConnectionManager();
   await connection.create();
 
   const { application } = new Server();
