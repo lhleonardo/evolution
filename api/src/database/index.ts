@@ -1,22 +1,19 @@
-import { createConnection, getConnection } from 'typeorm';
+import {
+  createConnection, getConnection,
+} from 'typeorm';
+import { connectionOptions } from '../config/typeorm';
 
 class ConnectionManager {
-  private readonly connectionName: string
-
-  constructor(connectionName = 'default') {
-    this.connectionName = connectionName;
-  }
-
   async create(): Promise<void> {
-    await createConnection(this.connectionName);
+    await createConnection(connectionOptions);
   }
 
   async close(): Promise<void> {
-    await getConnection(this.connectionName).close();
+    await getConnection().close();
   }
 
   async clear(): Promise<void> {
-    const currentConnection = getConnection(this.connectionName);
+    const currentConnection = getConnection();
     const entities = currentConnection.entityMetadatas;
 
     entities.forEach(async (entity) => {
