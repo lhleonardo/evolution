@@ -3,7 +3,7 @@ import 'dotenv/config';
 import { ConnectionOptions } from 'typeorm';
 
 const connectionOptions: ConnectionOptions = {
-  type: process.env.TYPEORM_TYPE as any,
+  type: process.env.TYPEORM_CONNECTION as any,
   host: process.env.TYPEORM_HOST,
   port: Number(process.env.TYPEORM_PORT),
   username: process.env.TYPEORM_USERNAME,
