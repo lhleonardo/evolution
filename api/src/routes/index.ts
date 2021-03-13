@@ -1,5 +1,5 @@
 import { Router } from 'express';
-import { registerPatientsRouter } from './patients.routes';
+import { registerPatientsRouter } from './patients/patients.routes';
 
 export function registerRoutes(): Router {
   const routes = Router();
